@@ -15,9 +15,9 @@
 ---
 
 ## 🌐 Connect with me:
-[LinkedIn](https://linkedin.com/in/yourprofile) | 
-[Twitter](https://twitter.com/yourprofile) | 
-[GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/vansh-gajbhiye-ab3143372?utm_source=share_via&utm_content=profile&utm_medium=member_android) | 
+[Twitter](https://x.com/GajbhiyeVa89698) | 
+[GitHub](https://github.com/Vansh-Gajbhiye)
 
 ---
 
@@ -29,9 +29,9 @@
 ---
 
 ## 🚀 Projects:
-- 🔹 Face Recognition System  
-- 🔹 Machine Learning Model  
-- 🔹 Web Application  
+- 🔹 Smart Face Based Auntentication System 
+- 🔹 Web Development
+
 
 ---
 
