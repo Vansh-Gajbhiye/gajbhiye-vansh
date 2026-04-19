@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science and Data Science Engineer  
+- 🎓 Computer Science and Data Science Engineering  
 - 🌱 Learning Machine Learning & DSA 
 - 💡 Interested in AI and Machine Learning Model  
 - 📫 Email: gajbhiyevansh27@gmail.com 
