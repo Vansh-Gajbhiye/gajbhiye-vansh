@@ -7,10 +7,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Student  
-- 🌱 Learning Machine Learning & Cloud  
-- 💡 Interested in AI, Web Development  
-- 📫 Email: your-email@gmail.com  
+- 🎓 Computer Science and Data Science Engineer  
+- 🌱 Learning Machine Learning & DSA 
+- 💡 Interested in AI and Machine Learning Model  
+- 📫 Email: gajbhiyevansh27@gmail.com 
 
 ---
 
